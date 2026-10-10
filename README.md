@@ -179,4 +179,3 @@ Driver memakai pool server-side maksimal tiga koneksi per instance, Supabase Tra
 
 Referensi desain: [Anargya ITS — Website Design di Figma](https://www.figma.com/design/rOfocrKCEhJwAyOTxRF82h/Anargya-ITS-%E2%80%94-Website-Design?node-id=116-1026).
 
-Desain mengikuti identitas hitam, putih, dan hijau Anargya (`#29D970`). Sapu Angin menjadi referensi struktur serta komposisi editorial; imagery dan branding tim tersebut tidak digunakan sebagai aset Anargya.
