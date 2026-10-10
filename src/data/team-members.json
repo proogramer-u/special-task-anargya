@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "fakhri-rahman-marzuki",
+    "fullName": "Fakhri Rahman Marzuki",
+    "mainDivision": "General Manager",
+    "subdivision": null,
+    "role": "GENERAL MANAGER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "managers-fahkri",
+        "mainDivision": "General Manager",
+        "subdivision": null,
+        "role": "GENERAL MANAGER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/managers/fahkri.png",
+        "sourceOrder": 0
+      }
+    ]
+  },
+  {
+    "id": "putra-valen-simbolon",
+    "fullName": "Putra Valen Simbolon",
+    "mainDivision": "General Manager",
+    "subdivision": null,
+    "role": "MECHANICAL MANAGER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "managers-putra",
+        "mainDivision": "General Manager",
+        "subdivision": null,
+        "role": "MECHANICAL MANAGER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/managers/putra.png",
+        "sourceOrder": 1
+      },
+      {
+        "id": "vehicle-putra",
+        "mainDivision": "Mechanical",
+        "subdivision": "Vehicle Dynamics",
+        "role": "HEAD OF VEHICLE DYNAMICS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vehicle/putra.png",
+        "sourceOrder": 4
+      }
+    ]
+  },
+  {
+    "id": "rifqi-fadhillah-husien",
+    "fullName": "Rifqi Fadhillah Husien",
+    "mainDivision": "General Manager",
+    "subdivision": null,
+    "role": "ELECTRICAL MANAGER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "managers-rifqi",
+        "mainDivision": "General Manager",
+        "subdivision": null,
+        "role": "ELECTRICAL MANAGER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/managers/rifqi.png",
+        "sourceOrder": 2
+      }
+    ]
+  },
+  {
+    "id": "fadhli-azhim",
+    "fullName": "Fadhli Azhim",
+    "mainDivision": "General Manager",
+    "subdivision": null,
+    "role": "NON-TECHNICAL MANAGER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "managers-fadhli",
+        "mainDivision": "General Manager",
+        "subdivision": null,
+        "role": "NON-TECHNICAL MANAGER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/managers/fadhli.png",
+        "sourceOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "bachrul-fikri-achmad",
+    "fullName": "Bachrul Fikri Achmad",
+    "mainDivision": "Mechanical",
+    "subdivision": "Vehicle Dynamics",
+    "role": "STAFF VEHICLE DYNAMICS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vehicle-bachrul",
+        "mainDivision": "Mechanical",
+        "subdivision": "Vehicle Dynamics",
+        "role": "STAFF VEHICLE DYNAMICS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vehicle/bachrul.png",
+        "sourceOrder": 5
+      }
+    ]
+  },
+  {
+    "id": "arya-bima-ramadhani",
+    "fullName": "Arya Bima Ramadhani",
+    "mainDivision": "Mechanical",
+    "subdivision": "Vehicle Dynamics",
+    "role": "STAFF VEHICLE DYNAMICS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vehicle-arya",
+        "mainDivision": "Mechanical",
+        "subdivision": "Vehicle Dynamics",
+        "role": "STAFF VEHICLE DYNAMICS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vehicle/arya.png",
+        "sourceOrder": 6
+      }
+    ]
+  },
+  {
+    "id": "muhammad-dzaky-nur-hafizh",
+    "fullName": "Muhammad Dzaky Nur Hafizh",
+    "mainDivision": "Mechanical",
+    "subdivision": "Motor & Drivetrain",
+    "role": "HEAD OF MOTOR & DRIVETRAIN",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "motor-dzaky",
+        "mainDivision": "Mechanical",
+        "subdivision": "Motor & Drivetrain",
+        "role": "HEAD OF MOTOR & DRIVETRAIN",
+        "sourceUrl": "https://www.anargyaits.com/images/team/motor/dzaky.png",
+        "sourceOrder": 7
+      }
+    ]
+  },
+  {
+    "id": "achmad-farrel-irginato",
+    "fullName": "Achmad Farrel Irginato",
+    "mainDivision": "Mechanical",
+    "subdivision": "Motor & Drivetrain",
+    "role": "STAFF MOTOR & DRIVETRAIN",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "motor-achmad",
+        "mainDivision": "Mechanical",
+        "subdivision": "Motor & Drivetrain",
+        "role": "STAFF MOTOR & DRIVETRAIN",
+        "sourceUrl": "https://www.anargyaits.com/images/team/motor/achmad.png",
+        "sourceOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "evan-mahadika-budhie-pratama",
+    "fullName": "Evan Mahadika Budhie Pratama",
+    "mainDivision": "Mechanical",
+    "subdivision": "Motor & Drivetrain",
+    "role": "STAFF MOTOR & DRIVETRAIN",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "motor-evan",
+        "mainDivision": "Mechanical",
+        "subdivision": "Motor & Drivetrain",
+        "role": "STAFF MOTOR & DRIVETRAIN",
+        "sourceUrl": "https://www.anargyaits.com/images/team/motor/evan.png",
+        "sourceOrder": 9
+      }
+    ]
+  },
+  {
+    "id": "sultan-syafiq-atalla",
+    "fullName": "Sultan Syafiq Atalla",
+    "mainDivision": "Mechanical",
+    "subdivision": "Motor & Drivetrain",
+    "role": "STAFF MOTOR & DRIVETRAIN",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "motor-sultan",
+        "mainDivision": "Mechanical",
+        "subdivision": "Motor & Drivetrain",
+        "role": "STAFF MOTOR & DRIVETRAIN",
+        "sourceUrl": "https://www.anargyaits.com/images/team/motor/sultan.png",
+        "sourceOrder": 10
+      }
+    ]
+  },
+  {
+    "id": "fakhruddin-latief-brilliansyah",
+    "fullName": "Fakhruddin Latief Brilliansyah",
+    "mainDivision": "Mechanical",
+    "subdivision": "Chassis & Structural Integrity",
+    "role": "HEAD OF CHASSIS & STRUCTURAL INTEGRITY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "chasis-latief",
+        "mainDivision": "Mechanical",
+        "subdivision": "Chassis & Structural Integrity",
+        "role": "HEAD OF CHASSIS & STRUCTURAL INTEGRITY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/chasis/latief.png",
+        "sourceOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "deo-bennedict-aditya-siregar",
+    "fullName": "Deo Bennedict Aditya Siregar",
+    "mainDivision": "Mechanical",
+    "subdivision": "Chassis & Structural Integrity",
+    "role": "STAFF CHASSIS & STRUCTURAL INTEGRITY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "chasis-deo",
+        "mainDivision": "Mechanical",
+        "subdivision": "Chassis & Structural Integrity",
+        "role": "STAFF CHASSIS & STRUCTURAL INTEGRITY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/chasis/deo.png",
+        "sourceOrder": 12
+      }
+    ]
+  },
+  {
+    "id": "nalendra-hillyant-bima",
+    "fullName": "Nalendra Hillyant Bima",
+    "mainDivision": "Mechanical",
+    "subdivision": "Chassis & Structural Integrity",
+    "role": "STAFF CHASSIS & STRUCTURAL INTEGRITY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "chasis-nalendra",
+        "mainDivision": "Mechanical",
+        "subdivision": "Chassis & Structural Integrity",
+        "role": "STAFF CHASSIS & STRUCTURAL INTEGRITY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/chasis/nalendra.png",
+        "sourceOrder": 13
+      }
+    ]
+  },
+  {
+    "id": "rahtomo-unggul-wicaksono",
+    "fullName": "Rahtomo Unggul Wicaksono",
+    "mainDivision": "Mechanical",
+    "subdivision": "Chassis & Structural Integrity",
+    "role": "STAFF CHASSIS & STRUCTURAL INTEGRITY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "chasis-rahtomo",
+        "mainDivision": "Mechanical",
+        "subdivision": "Chassis & Structural Integrity",
+        "role": "STAFF CHASSIS & STRUCTURAL INTEGRITY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/chasis/rahtomo.png",
+        "sourceOrder": 14
+      }
+    ]
+  },
+  {
+    "id": "erdiansyah-haryoseno",
+    "fullName": "Erdiansyah Haryoseno",
+    "mainDivision": "Mechanical",
+    "subdivision": "Aerodynamics & Composite",
+    "role": "HEAD OF AERODYNAMICS & COMPOSITE",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "aero-erdi",
+        "mainDivision": "Mechanical",
+        "subdivision": "Aerodynamics & Composite",
+        "role": "HEAD OF AERODYNAMICS & COMPOSITE",
+        "sourceUrl": "https://www.anargyaits.com/images/team/aero/erdi.png",
+        "sourceOrder": 15
+      }
+    ]
+  },
+  {
+    "id": "handaru-fadgham-aziz",
+    "fullName": "Handaru Fadgham Aziz",
+    "mainDivision": "Mechanical",
+    "subdivision": "Aerodynamics & Composite",
+    "role": "STAFF AERODYNAMICS & COMPOSITE",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "aero-handaru",
+        "mainDivision": "Mechanical",
+        "subdivision": "Aerodynamics & Composite",
+        "role": "STAFF AERODYNAMICS & COMPOSITE",
+        "sourceUrl": "https://www.anargyaits.com/images/team/aero/handaru.png",
+        "sourceOrder": 16
+      }
+    ]
+  },
+  {
+    "id": "praditya-rhaka",
+    "fullName": "Praditya Rhaka",
+    "mainDivision": "Mechanical",
+    "subdivision": "Aerodynamics & Composite",
+    "role": "STAFF AERODYNAMICS & COMPOSITE",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "aero-rhaka",
+        "mainDivision": "Mechanical",
+        "subdivision": "Aerodynamics & Composite",
+        "role": "STAFF AERODYNAMICS & COMPOSITE",
+        "sourceUrl": "https://www.anargyaits.com/images/team/aero/rhaka.png",
+        "sourceOrder": 17
+      }
+    ]
+  },
+  {
+    "id": "reyhan-naufal-octovilano",
+    "fullName": "Reyhan Naufal Octovilano",
+    "mainDivision": "Mechanical",
+    "subdivision": "Aerodynamics & Composite",
+    "role": "STAFF AERODYNAMICS & COMPOSITE",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "aero-reyhan",
+        "mainDivision": "Mechanical",
+        "subdivision": "Aerodynamics & Composite",
+        "role": "STAFF AERODYNAMICS & COMPOSITE",
+        "sourceUrl": "https://www.anargyaits.com/images/team/aero/reyhan.png",
+        "sourceOrder": 18
+      }
+    ]
+  },
+  {
+    "id": "rafael-yeheskiel-doloksaribu",
+    "fullName": "Rafael Yeheskiel Doloksaribu",
+    "mainDivision": "Electrical",
+    "subdivision": "Enclosure & Thermal Management",
+    "role": "HEAD OF ENCLOSURE & THERMAL MANAGEMENT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "thermal-rafael",
+        "mainDivision": "Electrical",
+        "subdivision": "Enclosure & Thermal Management",
+        "role": "HEAD OF ENCLOSURE & THERMAL MANAGEMENT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/thermal/rafael.png",
+        "sourceOrder": 19
+      }
+    ]
+  },
+  {
+    "id": "muhammad-faishal-tammam",
+    "fullName": "Muhammad Faishal Tammam",
+    "mainDivision": "Electrical",
+    "subdivision": "Enclosure & Thermal Management",
+    "role": "STAFF ENCLOSURE & THERMAL MANAGEMENT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "thermal-faishal",
+        "mainDivision": "Electrical",
+        "subdivision": "Enclosure & Thermal Management",
+        "role": "STAFF ENCLOSURE & THERMAL MANAGEMENT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/thermal/faishal.png",
+        "sourceOrder": 20
+      }
+    ]
+  },
+  {
+    "id": "bryan-christian",
+    "fullName": "Bryan Christian",
+    "mainDivision": "Electrical",
+    "subdivision": "Enclosure & Thermal Management",
+    "role": "STAFF ENCLOSURE & THERMAL MANAGEMENT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "thermal-bryan",
+        "mainDivision": "Electrical",
+        "subdivision": "Enclosure & Thermal Management",
+        "role": "STAFF ENCLOSURE & THERMAL MANAGEMENT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/thermal/bryan.png",
+        "sourceOrder": 21
+      }
+    ]
+  },
+  {
+    "id": "rasyad-afrizal-nuriman",
+    "fullName": "Rasyad Afrizal Nuriman",
+    "mainDivision": "Electrical",
+    "subdivision": "Tractive System & Controller",
+    "role": "HEAD OF TRACTIVE SYSTEM & CONTROLLER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "tractive-rasyad",
+        "mainDivision": "Electrical",
+        "subdivision": "Tractive System & Controller",
+        "role": "HEAD OF TRACTIVE SYSTEM & CONTROLLER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/tractive/rasyad.png",
+        "sourceOrder": 22
+      }
+    ]
+  },
+  {
+    "id": "muchammad-alif-ismail-chakim",
+    "fullName": "Muchammad Alif Ismail Chakim",
+    "mainDivision": "Electrical",
+    "subdivision": "Tractive System & Controller",
+    "role": "HEAD OF TRACTIVE SYSTEM & CONTROLLER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "tractive-alif",
+        "mainDivision": "Electrical",
+        "subdivision": "Tractive System & Controller",
+        "role": "HEAD OF TRACTIVE SYSTEM & CONTROLLER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/tractive/alif.png",
+        "sourceOrder": 23
+      }
+    ]
+  },
+  {
+    "id": "devin-putra-rineldi",
+    "fullName": "Devin Putra Rineldi",
+    "mainDivision": "Electrical",
+    "subdivision": "Tractive System & Controller",
+    "role": "STAFF TRACTIVE SYSTEM & CONTROLLER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "tractive-devin",
+        "mainDivision": "Electrical",
+        "subdivision": "Tractive System & Controller",
+        "role": "STAFF TRACTIVE SYSTEM & CONTROLLER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/tractive/devin.png",
+        "sourceOrder": 24
+      }
+    ]
+  },
+  {
+    "id": "fandyaman-anugerah-faomasi",
+    "fullName": "Fandyaman Anugerah Faomasi",
+    "mainDivision": "Electrical",
+    "subdivision": "Tractive System & Controller",
+    "role": "STAFF TRACTIVE SYSTEM & CONTROLLER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "tractive-fandyaman",
+        "mainDivision": "Electrical",
+        "subdivision": "Tractive System & Controller",
+        "role": "STAFF TRACTIVE SYSTEM & CONTROLLER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/tractive/fandyaman.png",
+        "sourceOrder": 25
+      }
+    ]
+  },
+  {
+    "id": "ahmad-nuur-hasan",
+    "fullName": "Ahmad Nuur Hasan",
+    "mainDivision": "Electrical",
+    "subdivision": "Tractive System & Controller",
+    "role": "STAFF TRACTIVE SYSTEM & CONTROLLER",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "tractive-ahmad",
+        "mainDivision": "Electrical",
+        "subdivision": "Tractive System & Controller",
+        "role": "STAFF TRACTIVE SYSTEM & CONTROLLER",
+        "sourceUrl": "https://www.anargyaits.com/images/team/tractive/ahmad.png",
+        "sourceOrder": 26
+      }
+    ]
+  },
+  {
+    "id": "fauzan-fairuzy-willis",
+    "fullName": "Fauzan Fairuzy Willis",
+    "mainDivision": "Electrical",
+    "subdivision": "Electro Programming & Safety System",
+    "role": "HEAD OF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "programming-fauzan",
+        "mainDivision": "Electrical",
+        "subdivision": "Electro Programming & Safety System",
+        "role": "HEAD OF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+        "sourceUrl": "https://www.anargyaits.com/images/team/programming/fauzan.png",
+        "sourceOrder": 27
+      }
+    ]
+  },
+  {
+    "id": "umarrahman-tajalli-zahrayudha",
+    "fullName": "Umarrahman Tajalli Zahrayudha",
+    "mainDivision": "Electrical",
+    "subdivision": "Electro Programming & Safety System",
+    "role": "HEAD OF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "programming-tajalli",
+        "mainDivision": "Electrical",
+        "subdivision": "Electro Programming & Safety System",
+        "role": "HEAD OF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+        "sourceUrl": "https://www.anargyaits.com/images/team/programming/tajalli.png",
+        "sourceOrder": 28
+      }
+    ]
+  },
+  {
+    "id": "trias-paringga",
+    "fullName": "Trias Paringga",
+    "mainDivision": "Electrical",
+    "subdivision": "Electro Programming & Safety System",
+    "role": "STAFF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "programming-trias",
+        "mainDivision": "Electrical",
+        "subdivision": "Electro Programming & Safety System",
+        "role": "STAFF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+        "sourceUrl": "https://www.anargyaits.com/images/team/programming/trias.png",
+        "sourceOrder": 29
+      }
+    ]
+  },
+  {
+    "id": "aminudin-wijaya",
+    "fullName": "Aminudin Wijaya",
+    "mainDivision": "Electrical",
+    "subdivision": "Electro Programming & Safety System",
+    "role": "STAFF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "programming-aminudin",
+        "mainDivision": "Electrical",
+        "subdivision": "Electro Programming & Safety System",
+        "role": "STAFF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+        "sourceUrl": "https://www.anargyaits.com/images/team/programming/aminudin.png",
+        "sourceOrder": 30
+      }
+    ]
+  },
+  {
+    "id": "abel-nailah-sukmadian",
+    "fullName": "Abel Nailah Sukmadian",
+    "mainDivision": "Electrical",
+    "subdivision": "Electro Programming & Safety System",
+    "role": "STAFF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "programming-abel",
+        "mainDivision": "Electrical",
+        "subdivision": "Electro Programming & Safety System",
+        "role": "STAFF ELECTRO PROGRAMMING & SAFETY SYSTEM",
+        "sourceUrl": "https://www.anargyaits.com/images/team/programming/abel.png",
+        "sourceOrder": 31
+      }
+    ]
+  },
+  {
+    "id": "muh-syafiq-abdillah",
+    "fullName": "Muh. Syafiq Abdillah",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "HEAD OF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-syafiq",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "HEAD OF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/syafiq.png",
+        "sourceOrder": 32
+      }
+    ]
+  },
+  {
+    "id": "rasendriya-fauzan-widagdo",
+    "fullName": "Rasendriya Fauzan Widagdo",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "STAFF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-fauzan",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "STAFF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/fauzan.png",
+        "sourceOrder": 33
+      }
+    ]
+  },
+  {
+    "id": "agatha-livia-anjani",
+    "fullName": "Agatha Livia Anjani",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "STAFF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-agatha",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "STAFF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/agatha.png",
+        "sourceOrder": 34
+      }
+    ]
+  },
+  {
+    "id": "fidela-leilani-daniswara",
+    "fullName": "Fidela Leilani Daniswara",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "STAFF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-fidela",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "STAFF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/fidela.png",
+        "sourceOrder": 35
+      }
+    ]
+  },
+  {
+    "id": "gabriela-angelyn-rodame-silitonga",
+    "fullName": "Gabriela Angelyn Rodame Silitonga",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "STAFF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-gabriela",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "STAFF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/gabriela.png",
+        "sourceOrder": 36
+      }
+    ]
+  },
+  {
+    "id": "nail-hafiz-bibra",
+    "fullName": "Nail Hafiz Bibra",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "STAFF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-nail",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "STAFF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/nail.png",
+        "sourceOrder": 37
+      }
+    ]
+  },
+  {
+    "id": "praditya-haekal-islami-al-haqiqi",
+    "fullName": "Praditya Haekal Islami Al Haqiqi",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Finance Support",
+    "role": "STAFF FINANCE SUPPORT",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "finance-haekal",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Finance Support",
+        "role": "STAFF FINANCE SUPPORT",
+        "sourceUrl": "https://www.anargyaits.com/images/team/finance/haekal.png",
+        "sourceOrder": 38
+      }
+    ]
+  },
+  {
+    "id": "muhammad-rayya-fahreza",
+    "fullName": "Muhammad Rayya Fahreza",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "HEAD OF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-reza",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "HEAD OF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/reza.png",
+        "sourceOrder": 39
+      }
+    ]
+  },
+  {
+    "id": "fikhania-aulia-rahma",
+    "fullName": "Fikhania Aulia Rahma",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-fikha",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/fikha.png",
+        "sourceOrder": 40
+      }
+    ]
+  },
+  {
+    "id": "nur-muhammad-faiz",
+    "fullName": "Nur Muhammad Faiz",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-faiz",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/faiz.png",
+        "sourceOrder": 41
+      }
+    ]
+  },
+  {
+    "id": "moch-maulana-ali-akbar",
+    "fullName": "Moch. Maulana Ali Akbar",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-ali",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/ali.png",
+        "sourceOrder": 42
+      }
+    ]
+  },
+  {
+    "id": "fadli-rayya-mahendra",
+    "fullName": "Fadli Rayya Mahendra",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-fadli",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/fadli.png",
+        "sourceOrder": 43
+      }
+    ]
+  },
+  {
+    "id": "arkan-razaka-rustamaji",
+    "fullName": "Arkan Razaka Rustamaji",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-arkan",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/arkan.png",
+        "sourceOrder": 44
+      }
+    ]
+  },
+  {
+    "id": "ahmad-tzaqib-abrar",
+    "fullName": "Ahmad Tzaqib Abrar",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-tzaqib",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/tzaqib.png",
+        "sourceOrder": 45
+      }
+    ]
+  },
+  {
+    "id": "i-putu-sukma-widyantara",
+    "fullName": "I Putu Sukma Widyantara",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Visual Media & Branding",
+    "role": "STAFF VISUAL MEDIA & BRANDING",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "vismed-sukma",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Visual Media & Branding",
+        "role": "STAFF VISUAL MEDIA & BRANDING",
+        "sourceUrl": "https://www.anargyaits.com/images/team/vismed/sukma.png",
+        "sourceOrder": 46
+      }
+    ]
+  },
+  {
+    "id": "fathir-ghifary-junaed",
+    "fullName": "Fathir Ghifary Junaed",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Procurement & Logistics Supply Specialist",
+    "role": "HEAD OF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "plss-ghifar",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Procurement & Logistics Supply Specialist",
+        "role": "HEAD OF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+        "sourceUrl": "https://www.anargyaits.com/images/team/plss/ghifar.png",
+        "sourceOrder": 47
+      }
+    ]
+  },
+  {
+    "id": "ilham-anfasa-rabbani",
+    "fullName": "Ilham Anfasa Rabbani",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Procurement & Logistics Supply Specialist",
+    "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "plss-ilham",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Procurement & Logistics Supply Specialist",
+        "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+        "sourceUrl": "https://www.anargyaits.com/images/team/plss/ilham.png",
+        "sourceOrder": 48
+      }
+    ]
+  },
+  {
+    "id": "farrel-pradipa-permadi",
+    "fullName": "Farrel Pradipa Permadi",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Procurement & Logistics Supply Specialist",
+    "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "plss-farrel",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Procurement & Logistics Supply Specialist",
+        "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+        "sourceUrl": "https://www.anargyaits.com/images/team/plss/farrel.png",
+        "sourceOrder": 49
+      }
+    ]
+  },
+  {
+    "id": "dana-februara-brahmani",
+    "fullName": "Dana Februara Brahmani",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Procurement & Logistics Supply Specialist",
+    "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "plss-dana",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Procurement & Logistics Supply Specialist",
+        "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+        "sourceUrl": "https://www.anargyaits.com/images/team/plss/dana.png",
+        "sourceOrder": 50
+      }
+    ]
+  },
+  {
+    "id": "baskara-ariq-sena",
+    "fullName": "Baskara Ariq Sena",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Procurement & Logistics Supply Specialist",
+    "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "plss-sena",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Procurement & Logistics Supply Specialist",
+        "role": "STAFF PROCUREMENT & LOGISTICS SUPPLY SPECIALIST",
+        "sourceUrl": "https://www.anargyaits.com/images/team/plss/sena.png",
+        "sourceOrder": 51
+      }
+    ]
+  },
+  {
+    "id": "muhammad-bilal-jundillah-mafaza",
+    "fullName": "Muhammad Bilal Jundillah Mafaza",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "HEAD OF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-bilal",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "HEAD OF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/bilal.png",
+        "sourceOrder": 52
+      }
+    ]
+  },
+  {
+    "id": "mahsarana-adiyatma-farzana",
+    "fullName": "Mahsarana Adiyatma Farzana",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "STAFF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-farza",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "STAFF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/farza.png",
+        "sourceOrder": 53
+      }
+    ]
+  },
+  {
+    "id": "annisa-isnania-padparadzka",
+    "fullName": "Annisa Isnania Padparadzka",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "STAFF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-annisa",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "STAFF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/annisa.png",
+        "sourceOrder": 54
+      }
+    ]
+  },
+  {
+    "id": "mutiara-putri-ramlan",
+    "fullName": "Mutiara Putri Ramlan",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "STAFF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-mutiara",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "STAFF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/mutiara.png",
+        "sourceOrder": 55
+      }
+    ]
+  },
+  {
+    "id": "nathania-karina-anggraini",
+    "fullName": "Nathania Karina Anggraini",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "STAFF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-karina",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "STAFF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/karina.png",
+        "sourceOrder": 56
+      }
+    ]
+  },
+  {
+    "id": "zalfa-omar-abdullah",
+    "fullName": "Zalfa Omar Abdullah",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "STAFF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-zalfa",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "STAFF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/zalfa.png",
+        "sourceOrder": 57
+      }
+    ]
+  },
+  {
+    "id": "fauzan-faza-muttaqin",
+    "fullName": "Fauzan Faza Muttaqin",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Public Relations",
+    "role": "STAFF PUBLIC RELATIONS",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "pr-fauzan",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Public Relations",
+        "role": "STAFF PUBLIC RELATIONS",
+        "sourceUrl": "https://www.anargyaits.com/images/team/pr/fauzan.png",
+        "sourceOrder": 58
+      }
+    ]
+  },
+  {
+    "id": "muhammad-iqbalul-arobi",
+    "fullName": "Muhammad Iqbalul Arobi",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Financial Operation & Administration Bureaucracy",
+    "role": "HEAD OF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "financial-arobi",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Financial Operation & Administration Bureaucracy",
+        "role": "HEAD OF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/financial/arobi.png",
+        "sourceOrder": 59
+      }
+    ]
+  },
+  {
+    "id": "ailsa-dahayu-rashida",
+    "fullName": "Ailsa Dahayu Rashida",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Financial Operation & Administration Bureaucracy",
+    "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "financial-ailsa",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Financial Operation & Administration Bureaucracy",
+        "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/financial/ailsa.png",
+        "sourceOrder": 60
+      }
+    ]
+  },
+  {
+    "id": "faris-abqory-aurangzeb",
+    "fullName": "Faris Abqory Aurangzeb",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Financial Operation & Administration Bureaucracy",
+    "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "financial-faris",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Financial Operation & Administration Bureaucracy",
+        "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/financial/faris.png",
+        "sourceOrder": 61
+      }
+    ]
+  },
+  {
+    "id": "giri-firmansyah",
+    "fullName": "Giri Firmansyah",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Financial Operation & Administration Bureaucracy",
+    "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "financial-giti",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Financial Operation & Administration Bureaucracy",
+        "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/financial/giti.png",
+        "sourceOrder": 62
+      }
+    ]
+  },
+  {
+    "id": "hasby-ibrahim-yusuf-faisal",
+    "fullName": "Hasby Ibrahim Yusuf Faisal",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Financial Operation & Administration Bureaucracy",
+    "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "financial-hasby",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Financial Operation & Administration Bureaucracy",
+        "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/financial/hasby.png",
+        "sourceOrder": 63
+      }
+    ]
+  },
+  {
+    "id": "ivan-agra-wianda",
+    "fullName": "Ivan Agra Wianda",
+    "mainDivision": "Non-Technical",
+    "subdivision": "Financial Operation & Administration Bureaucracy",
+    "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+    "imagePath": "/images/team/member-placeholder.svg",
+    "assignments": [
+      {
+        "id": "financial-ivan",
+        "mainDivision": "Non-Technical",
+        "subdivision": "Financial Operation & Administration Bureaucracy",
+        "role": "STAFF FINANCIAL OPERATION & ADMINISTRATION BUREAUCRACY",
+        "sourceUrl": "https://www.anargyaits.com/images/team/financial/ivan.png",
+        "sourceOrder": 64
+      }
+    ]
+  }
+]

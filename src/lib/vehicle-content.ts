@@ -1,0 +1,8 @@
+import mark6 from "../../public/images/anargya/mk6-side-left.png";
+import mark5 from "../../public/images/anargya/mark5.png";
+import mark4 from "../../public/images/anargya/mark-4-car.png";
+export const vehicles = [
+  { id: "mark-6", name: "Formula EV Mark 6.0", period: "2026 programme", image: mark6, description: "Anargya’s electric formula vehicle for its 2026 Formula SAE Japan effort.", development: "The official 2025 timeline describes powertrain and lightweighting work toward the 2026 programme. These are development topics, not measured performance improvements.", specifications: null, source: "https://www.anargyaits.com/" },
+  { id: "mark-5", name: "Formula EV Mark 5.0", period: "2024 development", image: mark5, description: "An electric formula vehicle with specifications published by the team.", development: "The 2024 development programme records refinements in aerodynamics, telemetry and vehicle dynamics. The team’s timeline also records Formula SAE Japan participation that year.", specifications: [{ label: "Weight", value: "220 kg" }, { label: "Power", value: "80 kW" }, { label: "Battery capacity", value: "6.9 kWh" }, { label: "Top speed", value: "120 km/h" }], source: "https://www.anargyaits.com/" },
+  { id: "mark-4", name: "Formula EV Mark 4.0", period: "2023 development", image: mark4, description: "An earlier chapter in Anargya’s electric formula development.", development: "The official 2023 timeline describes battery-pack architecture and lightweight-chassis development alongside the team’s Formula SAE Japan debut.", specifications: null, source: "https://www.anargyaits.com/about-us" },
+] as const;

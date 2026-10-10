@@ -1,0 +1,8 @@
+import preparation from "../../public/images/anargya/fsae-j-4.jpg";
+import testing from "../../public/images/anargya/anr-testing-2024-2.png";
+import mark6 from "../../public/images/anargya/mk6-side-left.png";
+export const researchChapters = [
+  { id: "energy-structure", period: "2023 · Mark 4.0", title: "Energy meets structure.", image: preparation, contain: false, alt: "Anargya members preparing a formula vehicle in an official gallery photograph", caption: "Official team engineering gallery", topics: [{ title: "Battery systems", description: "The official timeline documents battery-pack architecture development for Mark 4.0." }, { title: "Chassis and structural development", description: "Lightweight-chassis development is a documented part of the same programme." }] },
+  { id: "aero-dynamics", period: "2024 · Mark 5.0", title: "Refining how the vehicle moves.", image: testing, contain: false, alt: "Anargya formula vehicle and team during night testing", caption: "Official Formula EV testing photograph", topics: [{ title: "Aerodynamics", description: "The 2024 Mark 5.0 development programme records aerodynamic refinements." }, { title: "Vehicle dynamics and telemetry", description: "Vehicle-dynamics and telemetry refinements are also recorded for Mark 5.0." }] },
+  { id: "powertrain", period: "2025 development · 2026 programme", title: "Preparing the next generation.", image: mark6, contain: true, alt: "Official Formula EV Mark 6.0 visualization", caption: "Formula EV Mark 6.0 · Official vehicle visualization", topics: [{ title: "Electric drivetrain", description: "The official timeline describes powertrain and lightweighting work toward Mark 6.0’s 2026 competition programme." }] },
+] as const;
