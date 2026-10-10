@@ -59,3 +59,25 @@ next-env.d.ts
 # Private commerce database and setup credentials
 /.data/
 !.env.example
+
+# Local design research, audit reports, and agent instructions
+/docs/
+AGENTS.md
+
+# Local editor settings, temporary backups, and test reports
+/.idea/
+/.vscode/
+/playwright-report/
+/test-results/
+/blob-report/
+*.swp
+*.swo
+*~
+*.bak
+
+# Private key and credential files
+*.key
+*.p12
+*.pfx
+/credentials*.json
+/service-account*.json

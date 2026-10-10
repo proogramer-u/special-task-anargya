@@ -1,9 +1,0 @@
-# Continuous multi-page completion plan
-
-10 October 2026. Implements the user's attached autonomous brief, reusing the existing approved architecture/art direction. Sequence: verify Team → Vehicles and browser checks → Achievements and browser checks → Research and browser checks → Sponsors and browser checks → Home/global navigation → full six-width site audit. No intermediate approval gates, Figma changes, deployment or dependency installation.
-
-The Team roster remains 64 identities / 65 placements, explicitly eighth generation. Vehicles use a photographic testing opening, anchored generations, large contained vehicle artwork and published specifications. Achievements use a featured result and dated photographic archive, retaining event/category qualifiers. Research uses engineering photography and dated development chapters; autonomous research remains a scope statement rather than an invented project. Sponsors use the complete 27-item evidence-qualified wall with July-programme and additional-site groups. Home retains its cinematic hero and carousel, while detailed rosters, specifications, topics and logos live on their dedicated pages.
-
-All routes share the existing accessible dialog menu adapted to real routes, active states, and shared contact/footer. Existing CSS tokens and photographic assets remain authoritative. Route-prefixed CSS avoids the configured loader's CSS Module export issue. Static content is server-rendered; only existing menu/carousel/logo fallbacks and Team directory need client state.
-
-Each route is checked in a fresh production preview before the next page is built. Final validation covers 390, 440, 768, 1280, 1440, 1920px, local links, images, overflow, menu locking/closure/focus, carousel controls and reduced motion, roster and sponsor integrity, lint, TypeScript and production build. Results and limitations go in docs/multipage-completion-report.md.
