@@ -1,6 +1,6 @@
 # ANARGYA ITS
 
-Website seleksi Web Design & Development untuk Anargya ITS EV Team, mencakup kebutuhan **LOW, MEDIUM, dan HIGH**. Menampilkan profil tim, kendaraan Formula EV, pencapaian, kegiatan riset, sponsor, koleksi merchandise konsep, checkout simulasi, dashboard admin, dan PWA dengan offline dasar.
+Website seleksi Web Design & Development untuk Anargya ITS EV Team. Menampilkan profil tim, kendaraan Formula EV, pencapaian, kegiatan riset, sponsor, koleksi merchandise konsep, checkout simulasi, dashboard admin, dan PWA dengan offline dasar.
 
 Website: [ANARGYA ITS](https://special-task-anargya.vercel.app/).
 
