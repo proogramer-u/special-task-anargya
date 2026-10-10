@@ -1,6 +1,6 @@
 # Anargya ITS EV Team — Company Profile
 
-Responsive multi-page company-profile website for the Anargya 9th Generation Web Design & Development special task, **LOW difficulty**. Built with Next.js App Router, TypeScript, React and Tailwind CSS.
+
 
 ## Pages
 
@@ -45,12 +45,3 @@ Additional browser audit scripts are in `tests/`. They require Playwright suppli
 - `public/fonts/` — Inter font and its OFL license
 - `docs/` — Brand guidance, asset provenance, content verification, planning and audit reports
 
-## Content and asset usage
-
-Names, achievements, vehicle details and supporter acknowledgments are grounded in sources recorded in `docs/anargya-content.md`, `docs/anargya-team-directory.md`, `docs/anargya-assets.md` and `docs/anargya-sponsors-2026.md`. Acknowledgments do not establish current sponsorship contracts or tiers. The team directory follows the published eighth-generation roster.
-
-All member cards use a shared silhouette. Temporary original portrait cards used for roster research are not included in this repository.
-
-Official Anargya photography and third-party logos retain their respective rights; no open reuse license has been established. They are included for this Anargya special-task website with provenance and restrictions documented in the asset manifest. Do not treat this repository as a blanket license to redistribute those assets. Inter is supplied with its SIL Open Font License.
-
-Dependencies, Next.js build output, environment files, local browser previews, temporary research downloads and generated TypeScript caches are excluded. MED e-commerce and HIGH PWA features are outside scope. This repository does not deploy automatically through any configuration added here.
