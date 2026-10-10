@@ -1,0 +1,11 @@
+/* Public-content-only cache. No shop, admin, API, POST, RSC or customer data. */
+const VERSION='anargya-public-v1';
+const PAGES=['/','/team','/vehicles','/achievements','/research','/sponsors','/offline'];
+self.addEventListener('install',event=>{event.waitUntil(caches.open(VERSION).then(async cache=>{for(const page of ['/offline','/']){const r=await fetch(page,{cache:'reload'});if(r.ok)await cache.put(page,r);}}));});
+self.addEventListener('message',event=>{if(event.data==='ACTIVATE_UPDATE')self.skipWaiting();});
+self.addEventListener('activate',event=>{event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('anargya-public-')&&key!==VERSION)await caches.delete(key);await self.clients.claim();})());});
+self.addEventListener('fetch',event=>{const request=event.request;const url=new URL(request.url);if(request.method!=='GET'||url.origin!==self.location.origin||request.headers.has('RSC')||url.searchParams.has('_rsc'))return;
+if(request.mode==='navigate'){if(!PAGES.includes(url.pathname)){event.respondWith(fetch(request).catch(()=>caches.match('/offline')));return;}event.respondWith((async()=>{const cache=await caches.open(VERSION);try{const response=await fetch(request);if(response.ok&&response.headers.get('content-type')?.includes('text/html'))await cache.put(url.pathname,response.clone());return response;}catch{return await cache.match(url.pathname)||await cache.match('/offline');}})());return;}
+const staticAsset=url.pathname.startsWith('/_next/static/')||url.pathname.startsWith('/images/anargya/')||url.pathname.startsWith('/images/team/')||url.pathname.startsWith('/icons/')||url.pathname.startsWith('/pwa/')||url.pathname.startsWith('/fonts/')||(url.pathname==='/_next/image'&&(/^\/images\/(anargya|team)\//.test(url.searchParams.get('url')||'')));
+if(!staticAsset)return;
+event.respondWith((async()=>{const cache=await caches.open(VERSION);const hit=await cache.match(request);if(hit)return hit;const response=await fetch(request);if(response.ok){await cache.put(request,response.clone());const keys=await cache.keys();if(keys.length>180){const removable=keys.filter(k=>!PAGES.includes(new URL(k.url).pathname));for(const key of removable.slice(0,keys.length-180))await cache.delete(key);}}return response;})());});

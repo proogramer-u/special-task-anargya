@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Offline(){return <main id="main-content" className="site-container" style={{paddingBlock:96,minHeight:'70vh'}}><h1>You’re offline.</h1><p style={{marginBlock:32,maxWidth:640}}>Previously saved public pages may still be available. Product availability, checkout, order confirmation and administration require a connection. No order has been submitted by this offline page.</p><Link className="button" href="/">Return to saved Home</Link></main>;}

@@ -106,7 +106,7 @@ export function Navigation() {
         <Image src={siteImages.logo} alt="Anargya ITS" fill sizes="160px" className="object-contain" />
       </Link>
       <nav aria-label="Main navigation" className="desktop-nav items-center">
-        {navigation.map(link => <Link key={link.href} href={link.href} className="nav-link" aria-current={active === link.href ? "page" : undefined}>{link.label}</Link>)}
+        {navigation.map(link => <Link key={link.href} href={link.href} className="nav-link" aria-current={(active === link.href || active.startsWith(link.href + "/")) ? "page" : undefined}>{link.label}</Link>)}
         <ActionLink href="/sponsors#contact">Contact us</ActionLink>
       </nav>
       <button ref={toggle} type="button" className="icon-button menu-toggle" aria-label="Open navigation menu" aria-expanded={open} aria-controls="mobile-navigation" onClick={() => setOpen(value => !value)}>
@@ -130,7 +130,7 @@ export function Navigation() {
           </button>
         </div>
         <nav aria-label="Mobile navigation" className="mobile-nav">
-          {navigation.map(link => <a key={link.href} href={link.href} className="nav-link" aria-current={active === link.href ? "page" : undefined} onClick={event => navigate(event, link.href)}>{link.label}</a>)}
+          {navigation.map(link => <a key={link.href} href={link.href} className="nav-link" aria-current={(active === link.href || active.startsWith(link.href + "/")) ? "page" : undefined} onClick={event => navigate(event, link.href)}>{link.label}</a>)}
         </nav>
       </div>
     </dialog>

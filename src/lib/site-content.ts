@@ -19,6 +19,7 @@ export const navigation = [
   { label: "Achievements", href: "/achievements" },
   { label: "Research", href: "/research" },
   { label: "Sponsors", href: "/sponsors" },
+  { label: "Shop", href: "/shop" },
 ] as const;
 
 export const researchTopics = [

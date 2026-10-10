@@ -1,0 +1,1 @@
+import {ShopShell} from '@/components/commerce/shop-shell';import {Checkout} from '@/components/commerce/shop-ui';export const metadata={title:'Checkout | Anargya ITS EV Team',robots:{index:false,follow:false}};export default function Page(){return <ShopShell title="Checkout." summary="Review your collection and submit a simulated order."><Checkout/></ShopShell>;}

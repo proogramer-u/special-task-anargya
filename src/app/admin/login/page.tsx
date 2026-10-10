@@ -1,0 +1,1 @@
+import {redirect} from 'next/navigation';import {authenticated,configured} from '@/lib/commerce/auth';import {AdminLogin} from '@/components/commerce/admin-ui';export default async function Page(){if(await authenticated())redirect('/admin');return <AdminLogin configured={configured()}/>;}

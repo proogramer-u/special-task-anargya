@@ -270,3 +270,6 @@
  .site-footer .social-links{flex-direction:row;flex-wrap:wrap;gap:8px}
  .site-footer .social-links .nav-link{min-height:48px;padding:8px;font-size:14px}
 }
+
+.pwa-controls{position:fixed;bottom:16px;right:16px;max-width:calc(100vw - 32px);z-index:45;background:#121212;border:1px solid #444;border-radius:6px;padding:16px;font-size:14px}.pwa-controls button{min-height:44px;padding:8px 16px;border:1px solid #29d970;border-radius:6px;margin:8px 8px 0 0;color:#29d970}.pwa-controls p{max-width:320px}
+@media(min-width:1024px){.desktop-nav{gap:4px}.desktop-nav .nav-link{padding-inline:10px}.desktop-nav .button{width:auto;min-width:120px}}
